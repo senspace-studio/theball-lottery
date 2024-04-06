@@ -296,8 +296,8 @@ const pickWinner = () => {
 }
 
 const main = async () => {
-  // await fetchGashaSpinEvents()
-  // await fetchOfficialZoraNFTMint()
+  await fetchGashaSpinEvents()
+  await fetchOfficialZoraNFTMint()
   await calcBALL()
   pickWinner()
 }
