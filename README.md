@@ -9,7 +9,7 @@ In order to ensure a fair and transparent winner selection process, the winner s
 5. The indexed person in Address List 2 is the winner.
 6. The same logic is used to determine the second and third person, excluding the winner of Step 5.
 
-\* The Ball's operating team's address were excluded.
+\* The Ball's operating team's addresses were excluded.
 
 # How to run on your local
 
